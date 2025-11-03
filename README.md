@@ -38,6 +38,7 @@ The system operates in **real time**, streaming data from **Basler industrial ca
 ##  System Architecture
 <img width="772" height="397" alt="image" src="https://github.com/user-attachments/assets/7dbbb3f6-1261-4c7a-8cbf-f445b9c3ecb1" />
 
+<img width="689" height="430" alt="image" src="https://github.com/user-attachments/assets/92ae4ce6-d163-4b31-98ac-17318dbf52f7" />
 
 ## Model Training Details
 
