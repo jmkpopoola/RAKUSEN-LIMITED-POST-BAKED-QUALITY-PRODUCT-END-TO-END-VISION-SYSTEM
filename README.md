@@ -20,7 +20,9 @@ The system operates in **real time**, streaming data from **Basler industrial ca
 
 ## Key Features
 
--  **Real-Time Detection:** Provides instant quality control feedback on the production line.  
+-  **Real-Time Detection:** Provides instant quality control feedback on the production line.
+  <img width="848" height="498" alt="image" src="https://github.com/user-attachments/assets/692f91ab-d257-4eff-a7f3-69d750868295" />
+
 -  **Deep Learning Models:** Custom-trained **YOLOv8** and **CNN** architectures for object detection and classification.  
 -  **Custom Data Pipeline:** Built specifically for the food industry with robust fault tolerance, remote data collection, and GPU computing integration.  
 -  **Data Labelling:** Manually labeled using **LabelImg** and **CVAT** for pixel-accurate annotation.  
