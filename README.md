@@ -1,11 +1,6 @@
----
-title: "Rakusen AI Quality Detection System"
-author: "Ayobami Muhammed Salau"
-date: "2025"
-output: github_document
----
 
-## 🔍 AI-Powered Burnt and Unburnt Cookie Detection
+
+## AI-Powered Burnt and Unburnt Cookie Detection
 
 This repository contains the end-to-end implementation of an **AI-based food quality inspection system** developed for **Rakusen**, a UK-based food manufacturing company.  
 The system detects **burnt and unburnt cookies** in real time using **computer vision**, **deep learning**, and **data engineering**.
@@ -53,7 +48,7 @@ F --> G[Flask API Backend]
 G --> H[React Frontend Dashboard]
 H --> I[Quality Control Team]
 G --> J[MongoDB + AWS S3 Storage]
-
+```
 
 ## Model Training Details
 
