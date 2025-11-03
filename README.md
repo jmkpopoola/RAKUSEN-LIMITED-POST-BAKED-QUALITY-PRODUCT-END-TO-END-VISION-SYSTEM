@@ -36,19 +36,8 @@ The system operates in **real time**, streaming data from **Basler industrial ca
 ---
 
 ##  System Architecture
+<img width="772" height="397" alt="image" src="https://github.com/user-attachments/assets/7dbbb3f6-1261-4c7a-8cbf-f445b9c3ecb1" />
 
-```mermaid
-graph TD
-A[Basler Industrial Cameras] -->|Real-Time Stream| B[Custom Data Pipeline]
-B --> C[Data Labelling (LabelImg/CVAT)]
-C --> D[Preprocessing & Augmentation]
-D --> E[Training Environment (YOLOv8 + CNN on GPU)]
-E --> F[Model Evaluation & Optimization]
-F --> G[Flask API Backend]
-G --> H[React Frontend Dashboard]
-H --> I[Quality Control Team]
-G --> J[MongoDB + AWS S3 Storage]
-```
 
 ## Model Training Details
 
