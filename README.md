@@ -1,6 +1,7 @@
 
 
-## AI-Powered Burnt and Unburnt Cookie Detection
+## Developing an AI-assisted vision system for a food processing challenge and the assessment of the quality of baked products for a continuous-adaptive production process
+
 
 This repository contains the end-to-end implementation of an **AI-based food quality inspection system** developed for **Rakusen**, a UK-based food manufacturing company.  
 The system detects **burnt and unburnt cookies** in real time using **computer vision**, **deep learning**, and **data engineering**.
